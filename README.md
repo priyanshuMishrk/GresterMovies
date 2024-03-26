@@ -5,23 +5,23 @@ Welcome to the MovieTicket Booking System Repository! This project is a comprehe
 
 # Key Features:
 
-* Intuitive User Interface: The frontend of this application is developed using React, offering users a sleek and intuitive interface for browsing movies, showtimes, and theaters.
+* <b>Intuitive User Interface</b> : The frontend of this application is developed using React, offering users a sleek and intuitive interface for browsing movies, showtimes, and theaters.
 
-* Secure Authentication: Users can create accounts, log in securely, and manage their profiles, ensuring a personalized and secure experience.
+* <b>Secure Authentication</b> : Users can create accounts, log in securely, and manage their profiles, ensuring a personalized and secure experience.
 
-* Dynamic Movie Listings: Our system integrates with external APIs to fetch real-time data on movie listings, ensuring that users have access to the latest information on upcoming releases, showtimes, and ticket availability.
+* <b>Dynamic Movie Listings</b> : Our system integrates with external APIs to fetch real-time data on movie listings, ensuring that users have access to the latest information on upcoming releases, showtimes, and ticket availability.
 
-* Efficient Booking System: The ticket booking process is streamlined and user-friendly, allowing users to select their preferred movie, showtime, and seats with ease. Real-time seat availability updates ensure a smooth booking experience.
+* <b>Efficient Booking System</b> : The ticket booking process is streamlined and user-friendly, allowing users to select their preferred movie, showtime, and seats with ease. Real-time seat availability updates ensure a smooth booking experience.
 
-* Seamless Payment Integration: Integration with secure payment gateways enables users to complete their transactions seamlessly, with support for various payment methods.
+* <b>Seamless Payment Integration</b> : Integration with secure payment gateways enables users to complete their transactions seamlessly, with support for various payment methods.
 
-* Customizable Preferences : Users can customize their movie preferences, receive personalized recommendations, and set notifications for upcoming releases and special promotions.
+* <b>Customizable Preferences</b> : Users can customize their movie preferences, receive personalized recommendations, and set notifications for upcoming releases and special promotions.
 
-* Admin Dashboard : An admin dashboard is provided for theater owners and administrators to manage movie listings, theater information, pricing, and seating arrangements.
+* <b>Admin Dashboard</b> : An admin dashboard is provided for theater owners and administrators to manage movie listings, theater information, pricing, and seating arrangements.
 
-* Scalable Architecture: The backend APIs are developed using Node.js, providing a scalable and robust foundation for handling user requests, managing data, and interacting with external services.
+* <b>Scalable Architecture</b> : The backend APIs are developed using Node.js, providing a scalable and robust foundation for handling user requests, managing data, and interacting with external services.
 
-* Comprehensive Documentation: Detailed documentation is provided to guide developers through the setup, configuration, and customization of the application, facilitating easy deployment and maintenance.
+* <b>Comprehensive Documentation</b> : Detailed documentation is provided to guide developers through the setup, configuration, and customization of the application, facilitating easy deployment and maintenance.
 
 # Get Involved:
 
